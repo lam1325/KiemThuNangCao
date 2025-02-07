@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-17T15:45:41 ICT" name="Command line suite" finished-at="2025-01-17T15:45:41 ICT" duration-ms="47">
+    <groups>
+    </groups>
+    <test started-at="2025-01-17T15:45:41 ICT" name="Command line test" finished-at="2025-01-17T15:45:41 ICT" duration-ms="47">
+      <class name="testt.TestTinhToan">
+        <test-method signature="testTinhHieu()[pri:0, instance:testt.TestTinhToan@36f0f1be]" started-at="2025-01-17T15:45:41 ICT" name="testTinhHieu" finished-at="2025-01-17T15:45:41 ICT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTinhHieu -->
+        <test-method signature="testTinhThuong()[pri:0, instance:testt.TestTinhToan@36f0f1be]" started-at="2025-01-17T15:45:41 ICT" name="testTinhThuong" finished-at="2025-01-17T15:45:41 ICT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTinhThuong -->
+        <test-method signature="testTinhTich()[pri:0, instance:testt.TestTinhToan@36f0f1be]" started-at="2025-01-17T15:45:41 ICT" name="testTinhTich" finished-at="2025-01-17T15:45:41 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTinhTich -->
+        <test-method signature="testTinhTong()[pri:0, instance:testt.TestTinhToan@36f0f1be]" started-at="2025-01-17T15:45:41 ICT" name="testTinhTong" finished-at="2025-01-17T15:45:41 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTinhTong -->
+        <test-method signature="testTrungBinhCong()[pri:0, instance:testt.TestTinhToan@36f0f1be]" started-at="2025-01-17T15:45:41 ICT" name="testTrungBinhCong" finished-at="2025-01-17T15:45:41 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTrungBinhCong -->
+        <test-method signature="tinhTong1()[pri:0, instance:testt.TestTinhToan@36f0f1be]" started-at="2025-01-17T15:45:41 ICT" name="tinhTong1" finished-at="2025-01-17T15:45:41 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tinhTong1 -->
+        <test-method signature="tinhTong2()[pri:0, instance:testt.TestTinhToan@36f0f1be]" started-at="2025-01-17T15:45:41 ICT" name="tinhTong2" finished-at="2025-01-17T15:45:41 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tinhTong2 -->
+        <test-method signature="tinhTong4()[pri:0, instance:testt.TestTinhToan@36f0f1be]" started-at="2025-01-17T15:45:41 ICT" name="tinhTong4" finished-at="2025-01-17T15:45:41 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tinhTong4 -->
+        <test-method signature="tinhTong5()[pri:0, instance:testt.TestTinhToan@36f0f1be]" started-at="2025-01-17T15:45:41 ICT" name="tinhTong5" finished-at="2025-01-17T15:45:41 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tinhTong5 -->
+      </class> <!-- testt.TestTinhToan -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
